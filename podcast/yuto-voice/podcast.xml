@@ -110,5 +110,19 @@ https://forms.gle/x5juAM11Uj3SX6tH8</description>
       <itunes:explicit>no</itunes:explicit>
       <itunes:image href="https://utagesystem.s3.ap-northeast-1.amazonaws.com/yL3LZRmZIOUN/nOfx3DrWsq1dulPiL8jZtfcvNRwBU8kUIK3ZTC0O.jpg" />
     </item>
+    <item>
+      <title>やれ</title>
+      <itunes:author>ユウト</itunes:author>
+      <itunes:summary>《リクエストフォーム》
+https://forms.gle/x5juAM11Uj3SX6tH8</itunes:summary>
+      <description>《リクエストフォーム》
+https://forms.gle/x5juAM11Uj3SX6tH8</description>
+      <enclosure url="https://media.githubusercontent.com/media/yuto-watanabe0716/yuto-voice/refs/heads/main/podcast/yuto-voice/%E3%82%84%E3%82%8C.mp3" length="1469184" type="audio/mpeg" />
+      <guid>https://media.githubusercontent.com/media/yuto-watanabe0716/yuto-voice/refs/heads/main/podcast/yuto-voice/%E3%82%84%E3%82%8C.mp3</guid>
+      <pubDate>Sat, 31 Jan 2026 00:00:00 GMT</pubDate>
+      <itunes:duration>45</itunes:duration>
+      <itunes:explicit>no</itunes:explicit>
+      <itunes:image href="https://utagesystem.s3.ap-northeast-1.amazonaws.com/yL3LZRmZIOUN/mZwPH6WYwdYsgHLFuiVFoM8aRVBFcuVl8L05Nv0H.png" />
+    </item>
   </channel>
 </rss>
