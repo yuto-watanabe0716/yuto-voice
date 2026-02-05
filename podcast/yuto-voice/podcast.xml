@@ -166,5 +166,19 @@ https://forms.gle/x5juAM11Uj3SX6tH8</description>
       <itunes:explicit>no</itunes:explicit>
       <itunes:image href="https://utagesystem.s3.ap-northeast-1.amazonaws.com/yL3LZRmZIOUN/I2Jk8ade4Hqz1IoQ4zpXjl0hAn4QwiVj0vOHq84Q.png" />
     </item>
+    <item>
+      <title>【豊岡】読心力</title>
+      <itunes:author>ユウト</itunes:author>
+      <itunes:summary>《リクエストフォーム》
+https://forms.gle/x5juAM11Uj3SX6tH8</itunes:summary>
+      <description>《リクエストフォーム》
+https://forms.gle/x5juAM11Uj3SX6tH8</description>
+      <enclosure url="https://media.githubusercontent.com/media/yuto-watanabe0716/yuto-voice/refs/heads/main/podcast/yuto-voice/%E8%AA%AD%E5%BF%83%E5%8A%9B.mp3" length="13424989" type="audio/mpeg" />
+      <guid>https://media.githubusercontent.com/media/yuto-watanabe0716/yuto-voice/refs/heads/main/podcast/yuto-voice/%E8%AA%AD%E5%BF%83%E5%8A%9B.mp3</guid>
+      <pubDate>Thu, 05 Feb 2026 00:00:00 GMT</pubDate>
+      <itunes:duration>558</itunes:duration>
+      <itunes:explicit>no</itunes:explicit>
+      <itunes:image href="https://utagesystem.s3.ap-northeast-1.amazonaws.com/yL3LZRmZIOUN/KSIXvnuPyzMC2GG2kHu02K2mZMh6LcYhKBFXhZyC.png" />
+    </item>
   </channel>
 </rss>
