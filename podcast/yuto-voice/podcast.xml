@@ -180,5 +180,19 @@ https://forms.gle/x5juAM11Uj3SX6tH8</description>
       <itunes:explicit>no</itunes:explicit>
       <itunes:image href="https://utagesystem.s3.ap-northeast-1.amazonaws.com/yL3LZRmZIOUN/KSIXvnuPyzMC2GG2kHu02K2mZMh6LcYhKBFXhZyC.png" />
     </item>
+    <item>
+      <title>覚悟度合いで結果は決まる</title>
+      <itunes:author>ユウト</itunes:author>
+      <itunes:summary>《リクエストフォーム》
+https://forms.gle/x5juAM11Uj3SX6tH8</itunes:summary>
+      <description>《リクエストフォーム》
+https://forms.gle/x5juAM11Uj3SX6tH8</description>
+      <enclosure url="https://media.githubusercontent.com/media/yuto-watanabe0716/yuto-voice/refs/heads/main/podcast/yuto-voice/%E8%A6%9A%E6%82%9F.mp3" length="13061830" type="audio/mpeg" />
+      <guid>https://media.githubusercontent.com/media/yuto-watanabe0716/yuto-voice/refs/heads/main/podcast/yuto-voice/%E8%A6%9A%E6%82%9F.mp3</guid>
+      <pubDate>Fri, 06 Feb 2026 13:00:00 GMT</pubDate>
+      <itunes:duration>540</itunes:duration>
+      <itunes:explicit>no</itunes:explicit>
+      <itunes:image href="https://utagesystem.s3.ap-northeast-1.amazonaws.com/yL3LZRmZIOUN/edMfSrJ3JAKXJFz1Xz9ayock0CzxOtXhGRjM6gIU.png" />
+    </item>
   </channel>
 </rss>
