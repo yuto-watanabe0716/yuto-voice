@@ -194,5 +194,19 @@ https://forms.gle/x5juAM11Uj3SX6tH8</description>
       <itunes:explicit>no</itunes:explicit>
       <itunes:image href="https://utagesystem.s3.ap-northeast-1.amazonaws.com/yL3LZRmZIOUN/edMfSrJ3JAKXJFz1Xz9ayock0CzxOtXhGRjM6gIU.png" />
     </item>
+    <item>
+      <title>【尾形】在り方</title>
+      <itunes:author>ユウト</itunes:author>
+      <itunes:summary>《リクエストフォーム》
+https://forms.gle/x5juAM11Uj3SX6tH8</itunes:summary>
+      <description>《リクエストフォーム》
+https://forms.gle/x5juAM11Uj3SX6tH8</description>
+      <enclosure url="https://media.githubusercontent.com/media/yuto-watanabe0716/yuto-voice/refs/heads/main/podcast/yuto-voice/%E3%80%90%E5%B0%BE%E5%BD%A2%E3%80%91%E5%9C%A8%E3%82%8A%E6%96%B9.mp3" length="14528256" type="audio/mpeg" />
+      <guid>https://media.githubusercontent.com/media/yuto-watanabe0716/yuto-voice/refs/heads/main/podcast/yuto-voice/%E3%80%90%E5%B0%BE%E5%BD%A2%E3%80%91%E5%9C%A8%E3%82%8A%E6%96%B9.mp3</guid>
+      <pubDate>Fri, 06 Feb 2026 14:00:00 GMT</pubDate>
+      <itunes:duration>454</itunes:duration>
+      <itunes:explicit>no</itunes:explicit>
+      <itunes:image href="https://utagesystem.s3.ap-northeast-1.amazonaws.com/yL3LZRmZIOUN/2SPZ6WY9zenL7yTmRUP14tvhLfkgvkmdUZ6IZaHY.png" />
+    </item>
   </channel>
 </rss>
