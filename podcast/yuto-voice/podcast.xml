@@ -222,5 +222,19 @@ https://forms.gle/x5juAM11Uj3SX6tH8</description>
       <itunes:explicit>no</itunes:explicit>
       <itunes:image href="https://utagesystem.s3.ap-northeast-1.amazonaws.com/yL3LZRmZIOUN/jJVCkM2OfWvcCNjdW3Wtpsmc3Yh1AxpJnkPuBANy.png" />
     </item>
+    <item>
+      <title>【対話】上野✖︎豊岡</title>
+      <itunes:author>ユウト</itunes:author>
+      <itunes:summary>《リクエストフォーム》
+https://forms.gle/x5juAM11Uj3SX6tH8</itunes:summary>
+      <description>《リクエストフォーム》
+https://forms.gle/x5juAM11Uj3SX6tH8</description>
+      <enclosure url="https://media.githubusercontent.com/media/yuto-watanabe0716/yuto-voice/refs/heads/main/podcast/yuto-voice/%E4%B8%8A%E9%87%8E%26%E8%B1%8A%E5%B2%A1%E3%83%88%E3%83%BC%E3%82%AF.mp3" length="102844506" type="audio/mpeg" />
+      <guid>https://media.githubusercontent.com/media/yuto-watanabe0716/yuto-voice/refs/heads/main/podcast/yuto-voice/%E4%B8%8A%E9%87%8E%26%E8%B1%8A%E5%B2%A1%E3%83%88%E3%83%BC%E3%82%AF.mp3</guid>
+      <pubDate>Fri, 07 Feb 2026 16:00:00 GMT</pubDate>
+      <itunes:duration>4285</itunes:duration>
+      <itunes:explicit>no</itunes:explicit>
+      <itunes:image href="https://utagesystem.s3.ap-northeast-1.amazonaws.com/yL3LZRmZIOUN/yYwmKBJPZ8sOcUoOlbn1iu1MfyJLIxxc88IkkMQy.png" />
+    </item>
   </channel>
 </rss>
