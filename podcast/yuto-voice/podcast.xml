@@ -1,240 +1,340 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <rss xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd" version="2.0">
-  <channel>
-    <title>ユウト ぶち上げボイス</title>
-    <link>https://github.com/yuto-watanabe0716/yuto-voice</link>
-    <language>ja-JP</language>
-    <itunes:author>ユウト</itunes:author>
-    <itunes:summary>ユウト ぶち上げボイス</itunes:summary>
-    <description>ユウト ぶち上げボイス</description>
-    <itunes:image href="https://utagesystem.s3.ap-northeast-1.amazonaws.com/yL3LZRmZIOUN/6oBt8QJbLMZlZgyecryVVmMABmMBRl0iQnHknqvS.jpg" />
-    <itunes:category text="教育">
-      <itunes:category text="コース"/>
-    </itunes:category>
-    <itunes:explicit>no</itunes:explicit>
-    <item>
-      <title>初めに</title>
-      <itunes:author>ユウト</itunes:author>
-      <itunes:summary>《リクエストフォーム》
-https://forms.gle/x5juAM11Uj3SX6tH8</itunes:summary>
-      <description>《リクエストフォーム》
-https://forms.gle/x5juAM11Uj3SX6tH8</description>
-      <enclosure url="https://media.githubusercontent.com/media/yuto-watanabe0716/yuto-voice/refs/heads/main/podcast/yuto-voice/%E4%BF%AE%E6%AD%A3%E5%88%9D%E3%82%81%E3%81%AB.mp3" length="1842192" type="audio/mpeg" />
-      <guid>https://media.githubusercontent.com/media/yuto-watanabe0716/yuto-voice/refs/heads/main/podcast/yuto-voice/%E4%BF%AE%E6%AD%A3%E5%88%9D%E3%82%81%E3%81%AB.mp3</guid>
-      <pubDate>Wed, 28 Jan 2026 15:00:00 GMT</pubDate>
-      <itunes:duration>76</itunes:duration>
-      <itunes:explicit>no</itunes:explicit>
-      <itunes:image href="https://utagesystem.s3.ap-northeast-1.amazonaws.com/yL3LZRmZIOUN/nnRF4ERE0XXR2RYGbFGvUpCbOfpOQBBRChrNF7eK.jpg" />
-    </item>
-    <item>
-      <title>トロさは罪</title>
-      <itunes:author>ユウト</itunes:author>
-      <itunes:summary>《リクエストフォーム》
-https://forms.gle/x5juAM11Uj3SX6tH8</itunes:summary>
-      <description>《リクエストフォーム》
-https://forms.gle/x5juAM11Uj3SX6tH8</description>
-      <enclosure url="https://media.githubusercontent.com/media/yuto-watanabe0716/yuto-voice/refs/heads/main/podcast/yuto-voice/%E4%BF%AE%E6%AD%A3%E7%89%88%E3%83%88%E3%83%AD%E3%81%95%E3%81%AF%E3%81%A4%E3%81%BF.mp3" length="13055484" type="audio/mpeg" />
-      <guid>https://media.githubusercontent.com/media/yuto-watanabe0716/yuto-voice/refs/heads/main/podcast/yuto-voice/%E4%BF%AE%E6%AD%A3%E7%89%88%E3%83%88%E3%83%AD%E3%81%95%E3%81%AF%E3%81%A4%E3%81%BF.mp3</guid>
-      <pubDate>Wed, 28 Jan 2026 16:00:00 GMT</pubDate>
-      <itunes:duration>543</itunes:duration>
-      <itunes:explicit>no</itunes:explicit>
-      <itunes:image href="https://utagesystem.s3.ap-northeast-1.amazonaws.com/yL3LZRmZIOUN/2sJZkSRIy9Yxuu92lm4q6zYcvRjmKcGax4gTBPmQ.jpg" />
-    </item>
-    <item>
-      <title>自分らしさを捨てる勇気</title>
-      <itunes:author>ユウト</itunes:author>
-      <itunes:summary>《リクエストフォーム》
-https://forms.gle/x5juAM11Uj3SX6tH8</itunes:summary>
-      <description>《リクエストフォーム》
-https://forms.gle/x5juAM11Uj3SX6tH8</description>
-      <enclosure url="https://media.githubusercontent.com/media/yuto-watanabe0716/yuto-voice/refs/heads/main/podcast/yuto-voice/%E8%87%AA%E5%88%86%E3%82%89%E3%81%97%E3%81%95%E3%82%92%E6%8D%A8%E3%81%A6%E3%82%8B%E5%8B%87%E6%B0%97.mp3" length="8528382" type="audio/mpeg" />
-      <guid>https://media.githubusercontent.com/media/yuto-watanabe0716/yuto-voice/refs/heads/main/podcast/yuto-voice/%E8%87%AA%E5%88%86%E3%82%89%E3%81%97%E3%81%95%E3%82%92%E6%8D%A8%E3%81%A6%E3%82%8B%E5%8B%87%E6%B0%97.mp3</guid>
-      <pubDate>Wed, 28 Jan 2026 17:00:00 GMT</pubDate>
-      <itunes:duration>355</itunes:duration>
-      <itunes:explicit>no</itunes:explicit>
-      <itunes:image href="https://utagesystem.s3.ap-northeast-1.amazonaws.com/yL3LZRmZIOUN/Kg7DpZY9BWkrQBlK86Mw9iZl4I189PKxGgethms6.jpg" />
-    </item>
-    <item>
-      <title>タワマンに住んでみた感想</title>
-      <itunes:author>ユウト</itunes:author>
-      <itunes:summary>《リクエストフォーム》
-https://forms.gle/x5juAM11Uj3SX6tH8</itunes:summary>
-      <description>《リクエストフォーム》
-https://forms.gle/x5juAM11Uj3SX6tH8</description>
-      <enclosure url="https://media.githubusercontent.com/media/yuto-watanabe0716/yuto-voice/refs/heads/main/podcast/yuto-voice/%E3%82%BF%E3%83%AF%E3%83%9E%E3%83%B3%E3%81%AB%E4%BD%8F%E3%82%93%E3%81%A7%E3%81%BF%E3%81%9F%E6%84%9F%E6%83%B3.mp3" length="10683250" type="audio/mpeg" />
-      <guid>https://media.githubusercontent.com/media/yuto-watanabe0716/yuto-voice/refs/heads/main/podcast/yuto-voice/%E3%82%BF%E3%83%AF%E3%83%9E%E3%83%B3%E3%81%AB%E4%BD%8F%E3%82%93%E3%81%A7%E3%81%BF%E3%81%9F%E6%84%9F%E6%83%B3.mp3</guid>
-      <pubDate>Wed, 28 Jan 2026 18:00:00 GMT</pubDate>
-      <itunes:duration>445</itunes:duration>
-      <itunes:explicit>no</itunes:explicit>
-      <itunes:image href="https://utagesystem.s3.ap-northeast-1.amazonaws.com/yL3LZRmZIOUN/Lo0L7SESKdzIa4bQZvViuFoANHJjDa95foQgNbOw.jpg" />
-    </item>
-    <item>
-      <title>目標への体感値</title>
-      <itunes:author>ユウト</itunes:author>
-      <itunes:summary>《リクエストフォーム》
-https://forms.gle/x5juAM11Uj3SX6tH8</itunes:summary>
-      <description>《リクエストフォーム》
-https://forms.gle/x5juAM11Uj3SX6tH8</description>
-      <enclosure url="https://media.githubusercontent.com/media/yuto-watanabe0716/yuto-voice/refs/heads/main/podcast/yuto-voice/%E7%9B%AE%E6%A8%99%E3%81%B8%E3%81%AE%E4%BD%93%E6%84%9F%E5%80%A4.mp3" length="16053536" type="audio/mpeg" />
-      <guid>https://media.githubusercontent.com/media/yuto-watanabe0716/yuto-voice/refs/heads/main/podcast/yuto-voice/%E7%9B%AE%E6%A8%99%E3%81%B8%E3%81%AE%E4%BD%93%E6%84%9F%E5%80%A4.mp3</guid>
-      <pubDate>Wed, 28 Jan 2026 19:00:00 GMT</pubDate>
-      <itunes:duration>668</itunes:duration>
-      <itunes:explicit>no</itunes:explicit>
-      <itunes:image href="https://utagesystem.s3.ap-northeast-1.amazonaws.com/yL3LZRmZIOUN/v70SYwlcLBczGpoyyQLAbJDnW3p2R2pV8y6yxrfF.png" />
-    </item>
-    <item>
-      <title>セールスをどう学んだか</title>
-      <itunes:author>ユウト</itunes:author>
-      <itunes:summary>《リクエストフォーム》
-https://forms.gle/x5juAM11Uj3SX6tH8</itunes:summary>
-      <description>《リクエストフォーム》
-https://forms.gle/x5juAM11Uj3SX6tH8</description>
-      <enclosure url="https://media.githubusercontent.com/media/yuto-watanabe0716/yuto-voice/refs/heads/main/podcast/yuto-voice/%E3%82%BB%E3%83%BC%E3%83%AB%E3%82%B9%E3%82%92%E3%81%A9%E3%81%86%E5%AD%A6%E3%82%93%E3%81%A0%E3%81%8B.mp3" length="18166724" type="audio/mpeg" />
-      <guid>https://media.githubusercontent.com/media/yuto-watanabe0716/yuto-voice/refs/heads/main/podcast/yuto-voice/%E3%82%BB%E3%83%BC%E3%83%AB%E3%82%B9%E3%82%92%E3%81%A9%E3%81%86%E5%AD%A6%E3%82%93%E3%81%A0%E3%81%8B.mp3</guid>
-      <pubDate>Wed, 28 Jan 2026 20:00:00 GMT</pubDate>
-      <itunes:duration>756</itunes:duration>
-      <itunes:explicit>no</itunes:explicit>
-      <itunes:image href="https://utagesystem.s3.ap-northeast-1.amazonaws.com/yL3LZRmZIOUN/8zaZTQBV94QZxvcZqVYeQBQunww3roxItPGLYZFO.jpg" />
-    </item>
-    <item>
-      <title>不安の正体</title>
-      <itunes:author>ユウト</itunes:author>
-      <itunes:summary>《リクエストフォーム》
-https://forms.gle/x5juAM11Uj3SX6tH8</itunes:summary>
-      <description>《リクエストフォーム》
-https://forms.gle/x5juAM11Uj3SX6tH8</description>
-      <enclosure url="https://media.githubusercontent.com/media/yuto-watanabe0716/yuto-voice/refs/heads/main/podcast/yuto-voice/%E4%B8%8D%E5%AE%89%E3%81%AE%E6%AD%A3%E4%BD%93.mp3" length="15052753" type="audio/mpeg" />
-      <guid>https://media.githubusercontent.com/media/yuto-watanabe0716/yuto-voice/refs/heads/main/podcast/yuto-voice/%E4%B8%8D%E5%AE%89%E3%81%AE%E6%AD%A3%E4%BD%93.mp3</guid>
-      <pubDate>Wed, 28 Jan 2026 21:00:00 GMT</pubDate>
-      <itunes:duration>625</itunes:duration>
-      <itunes:explicit>no</itunes:explicit>
-      <itunes:image href="https://utagesystem.s3.ap-northeast-1.amazonaws.com/yL3LZRmZIOUN/nOfx3DrWsq1dulPiL8jZtfcvNRwBU8kUIK3ZTC0O.jpg" />
-    </item>
-    <item>
-      <title>やれ</title>
-      <itunes:author>ユウト</itunes:author>
-      <itunes:summary>《リクエストフォーム》
-https://forms.gle/x5juAM11Uj3SX6tH8</itunes:summary>
-      <description>《リクエストフォーム》
-https://forms.gle/x5juAM11Uj3SX6tH8</description>
-      <enclosure url="https://media.githubusercontent.com/media/yuto-watanabe0716/yuto-voice/refs/heads/main/podcast/yuto-voice/%E3%82%84%E3%82%8C.mp3" length="1469184" type="audio/mpeg" />
-      <guid>https://media.githubusercontent.com/media/yuto-watanabe0716/yuto-voice/refs/heads/main/podcast/yuto-voice/%E3%82%84%E3%82%8C.mp3</guid>
-      <pubDate>Sat, 31 Jan 2026 00:00:00 GMT</pubDate>
-      <itunes:duration>45</itunes:duration>
-      <itunes:explicit>no</itunes:explicit>
-      <itunes:image href="https://utagesystem.s3.ap-northeast-1.amazonaws.com/yL3LZRmZIOUN/mZwPH6WYwdYsgHLFuiVFoM8aRVBFcuVl8L05Nv0H.png" />
-    </item>
-    <item>
-      <title>メンタル</title>
-      <itunes:author>ユウト</itunes:author>
-      <itunes:summary>《リクエストフォーム》
-https://forms.gle/x5juAM11Uj3SX6tH8</itunes:summary>
-      <description>《リクエストフォーム》
-https://forms.gle/x5juAM11Uj3SX6tH8</description>
-      <enclosure url="https://media.githubusercontent.com/media/yuto-watanabe0716/yuto-voice/refs/heads/main/podcast/yuto-voice/%E2%AD%90%EF%B8%8F%E3%82%A2%E3%83%83%E3%83%97%E7%89%88%E3%83%A1%E3%83%B3%E3%82%BF%E3%83%AB.mp3" length="11075043" type="audio/mpeg" />
-      <guid>https://media.githubusercontent.com/media/yuto-watanabe0716/yuto-voice/refs/heads/main/podcast/yuto-voice/%E2%AD%90%EF%B8%8F%E3%82%A2%E3%83%83%E3%83%97%E7%89%88%E3%83%A1%E3%83%B3%E3%82%BF%E3%83%AB.mp3</guid>
-      <pubDate>Sun, 01 Feb 2026 09:00:00 GMT</pubDate>
-      <itunes:duration>461</itunes:duration>
-      <itunes:explicit>no</itunes:explicit>
-      <itunes:image href="https://utagesystem.s3.ap-northeast-1.amazonaws.com/yL3LZRmZIOUN/etDAesBQcOKHAt2NaKmmcbjXTTS4D4c2oHM1dg4U.png" />
-    </item>
-    <item>
-      <title>完成されたセールス</title>
-      <itunes:author>ユウト</itunes:author>
-      <itunes:summary>《リクエストフォーム》
-https://forms.gle/x5juAM11Uj3SX6tH8</itunes:summary>
-      <description>《リクエストフォーム》
-https://forms.gle/x5juAM11Uj3SX6tH8</description>
-      <enclosure url="https://media.githubusercontent.com/media/yuto-watanabe0716/yuto-voice/refs/heads/main/podcast/yuto-voice/%E2%AD%90%EF%B8%8F%E3%82%A2%E3%83%83%E3%83%97%E7%89%88%E5%AE%8C%E6%88%90%E3%81%95%E3%82%8C%E3%81%9F%E3%82%BB%E3%83%BC%E3%83%AB%E3%82%B9%E3%81%A8%E3%81%AF.mp3" length="18447482" type="audio/mpeg" />
-      <guid>https://media.githubusercontent.com/media/yuto-watanabe0716/yuto-voice/refs/heads/main/podcast/yuto-voice/%E2%AD%90%EF%B8%8F%E3%82%A2%E3%83%83%E3%83%97%E7%89%88%E5%AE%8C%E6%88%90%E3%81%95%E3%82%8C%E3%81%9F%E3%82%BB%E3%83%BC%E3%83%AB%E3%82%B9%E3%81%A8%E3%81%AF.mp3</guid>
-      <pubDate>Sun, 01 Feb 2026 09:05:00 GMT</pubDate>
-      <itunes:duration>768</itunes:duration>
-      <itunes:explicit>no</itunes:explicit>
-      <itunes:image href="https://utagesystem.s3.ap-northeast-1.amazonaws.com/yL3LZRmZIOUN/jMWPuK6GHClfiDINx1AEjSP6HjpTLsAFUwACGhkn.png" />
-    </item>
-    <item>
-      <title>マインドブロック</title>
-      <itunes:author>ユウト</itunes:author>
-      <itunes:summary>《リクエストフォーム》
-https://forms.gle/x5juAM11Uj3SX6tH8</itunes:summary>
-      <description>《リクエストフォーム》
-https://forms.gle/x5juAM11Uj3SX6tH8</description>
-      <enclosure url="https://media.githubusercontent.com/media/yuto-watanabe0716/yuto-voice/refs/heads/main/podcast/yuto-voice/%E3%83%9E%E3%82%A4%E3%83%B3%E3%83%89%E3%83%96%E3%83%AD%E3%83%83%E3%82%AF.mp3" length="17501952" type="audio/mpeg" />
-      <guid>https://media.githubusercontent.com/media/yuto-watanabe0716/yuto-voice/refs/heads/main/podcast/yuto-voice/%E3%83%9E%E3%82%A4%E3%83%B3%E3%83%89%E3%83%96%E3%83%AD%E3%83%83%E3%82%AF.mp3</guid>
-      <pubDate>Wed, 04 Feb 2026 09:00:00 GMT</pubDate>
-      <itunes:duration>547</itunes:duration>
-      <itunes:explicit>no</itunes:explicit>
-      <itunes:image href="https://utagesystem.s3.ap-northeast-1.amazonaws.com/yL3LZRmZIOUN/I2Jk8ade4Hqz1IoQ4zpXjl0hAn4QwiVj0vOHq84Q.png" />
-    </item>
-    <item>
-      <title>【豊岡】読心力</title>
-      <itunes:author>ユウト</itunes:author>
-      <itunes:summary>《リクエストフォーム》
-https://forms.gle/x5juAM11Uj3SX6tH8</itunes:summary>
-      <description>《リクエストフォーム》
-https://forms.gle/x5juAM11Uj3SX6tH8</description>
-      <enclosure url="https://media.githubusercontent.com/media/yuto-watanabe0716/yuto-voice/refs/heads/main/podcast/yuto-voice/%E8%AA%AD%E5%BF%83%E5%8A%9B.mp3" length="13424989" type="audio/mpeg" />
-      <guid>https://media.githubusercontent.com/media/yuto-watanabe0716/yuto-voice/refs/heads/main/podcast/yuto-voice/%E8%AA%AD%E5%BF%83%E5%8A%9B.mp3</guid>
-      <pubDate>Thu, 05 Feb 2026 00:00:00 GMT</pubDate>
-      <itunes:duration>558</itunes:duration>
-      <itunes:explicit>no</itunes:explicit>
-      <itunes:image href="https://utagesystem.s3.ap-northeast-1.amazonaws.com/yL3LZRmZIOUN/KSIXvnuPyzMC2GG2kHu02K2mZMh6LcYhKBFXhZyC.png" />
-    </item>
-    <item>
-      <title>覚悟度合いで結果は決まる</title>
-      <itunes:author>ユウト</itunes:author>
-      <itunes:summary>《リクエストフォーム》
-https://forms.gle/x5juAM11Uj3SX6tH8</itunes:summary>
-      <description>《リクエストフォーム》
-https://forms.gle/x5juAM11Uj3SX6tH8</description>
-      <enclosure url="https://media.githubusercontent.com/media/yuto-watanabe0716/yuto-voice/refs/heads/main/podcast/yuto-voice/%E8%A6%9A%E6%82%9F.mp3" length="13061830" type="audio/mpeg" />
-      <guid>https://media.githubusercontent.com/media/yuto-watanabe0716/yuto-voice/refs/heads/main/podcast/yuto-voice/%E8%A6%9A%E6%82%9F.mp3</guid>
-      <pubDate>Fri, 06 Feb 2026 13:00:00 GMT</pubDate>
-      <itunes:duration>540</itunes:duration>
-      <itunes:explicit>no</itunes:explicit>
-      <itunes:image href="https://utagesystem.s3.ap-northeast-1.amazonaws.com/yL3LZRmZIOUN/edMfSrJ3JAKXJFz1Xz9ayock0CzxOtXhGRjM6gIU.png" />
-    </item>
-    <item>
-      <title>【尾形】在り方</title>
-      <itunes:author>ユウト</itunes:author>
-      <itunes:summary>《リクエストフォーム》
-https://forms.gle/x5juAM11Uj3SX6tH8</itunes:summary>
-      <description>《リクエストフォーム》
-https://forms.gle/x5juAM11Uj3SX6tH8</description>
-      <enclosure url="https://media.githubusercontent.com/media/yuto-watanabe0716/yuto-voice/refs/heads/main/podcast/yuto-voice/%E3%80%90%E5%B0%BE%E5%BD%A2%E3%80%91%E5%9C%A8%E3%82%8A%E6%96%B9.mp3" length="14528256" type="audio/mpeg" />
-      <guid>https://media.githubusercontent.com/media/yuto-watanabe0716/yuto-voice/refs/heads/main/podcast/yuto-voice/%E3%80%90%E5%B0%BE%E5%BD%A2%E3%80%91%E5%9C%A8%E3%82%8A%E6%96%B9.mp3</guid>
-      <pubDate>Fri, 06 Feb 2026 14:00:00 GMT</pubDate>
-      <itunes:duration>454</itunes:duration>
-      <itunes:explicit>no</itunes:explicit>
-      <itunes:image href="https://utagesystem.s3.ap-northeast-1.amazonaws.com/yL3LZRmZIOUN/2SPZ6WY9zenL7yTmRUP14tvhLfkgvkmdUZ6IZaHY.png" />
-    </item>
-    <item>
-      <title>【対話】岡崎✖️伊藤</title>
-      <itunes:author>ユウト</itunes:author>
-      <itunes:summary>《リクエストフォーム》
-https://forms.gle/x5juAM11Uj3SX6tH8</itunes:summary>
-      <description>《リクエストフォーム》
-https://forms.gle/x5juAM11Uj3SX6tH8</description>
-      <enclosure url="https://media.githubusercontent.com/media/yuto-watanabe0716/yuto-voice/refs/heads/main/podcast/yuto-voice/%E5%B2%A1%E5%B4%8E%26%E4%BC%8A%E8%97%A4%E3%83%88%E3%83%BC%E3%82%AF.mp3" length="83485105" type="audio/mpeg" />
-      <guid>https://media.githubusercontent.com/media/yuto-watanabe0716/yuto-voice/refs/heads/main/podcast/yuto-voice/%E5%B2%A1%E5%B4%8E%26%E4%BC%8A%E8%97%A4%E3%83%88%E3%83%BC%E3%82%AF.mp3</guid>
-      <pubDate>Fri, 07 Feb 2026 15:00:00 GMT</pubDate>
-      <itunes:duration>3478</itunes:duration>
-      <itunes:explicit>no</itunes:explicit>
-      <itunes:image href="https://utagesystem.s3.ap-northeast-1.amazonaws.com/yL3LZRmZIOUN/jJVCkM2OfWvcCNjdW3Wtpsmc3Yh1AxpJnkPuBANy.png" />
-    </item>
-    <item>
-      <title>【対話】上野✖︎豊岡</title>
-      <itunes:author>ユウト</itunes:author>
-      <itunes:summary>《リクエストフォーム》
-https://forms.gle/x5juAM11Uj3SX6tH8</itunes:summary>
-      <description>《リクエストフォーム》
-https://forms.gle/x5juAM11Uj3SX6tH8</description>
-      <enclosure url="https://media.githubusercontent.com/media/yuto-watanabe0716/yuto-voice/refs/heads/main/podcast/yuto-voice/%E4%B8%8A%E9%87%8E%26%E8%B1%8A%E5%B2%A1%E3%83%88%E3%83%BC%E3%82%AF.mp3" length="102844506" type="audio/mpeg" />
-      <guid>https://media.githubusercontent.com/media/yuto-watanabe0716/yuto-voice/refs/heads/main/podcast/yuto-voice/%E4%B8%8A%E9%87%8E%26%E8%B1%8A%E5%B2%A1%E3%83%88%E3%83%BC%E3%82%AF.mp3</guid>
-      <pubDate>Fri, 07 Feb 2026 16:00:00 GMT</pubDate>
-      <itunes:duration>4285</itunes:duration>
-      <itunes:explicit>no</itunes:explicit>
-      <itunes:image href="https://utagesystem.s3.ap-northeast-1.amazonaws.com/yL3LZRmZIOUN/yYwmKBJPZ8sOcUoOlbn1iu1MfyJLIxxc88IkkMQy.png" />
-    </item>
-  </channel>
+    <channel>
+        <title>ユウト ぶち上げボイス</title>
+        <link>https://github.com/yuto-watanabe0716/yuto-voice</link>
+        <language>ja-JP</language>
+        <itunes:author>ユウト</itunes:author>
+        <itunes:summary>ユウト ぶち上げボイス</itunes:summary>
+        <description>ユウト ぶち上げボイス</description>
+        <itunes:image
+            href="https://utagesystem.s3.ap-northeast-1.amazonaws.com/yL3LZRmZIOUN/6oBt8QJbLMZlZgyecryVVmMABmMBRl0iQnHknqvS.jpg" />
+        <itunes:category text="教育">
+            <itunes:category text="コース" />
+        </itunes:category>
+        <itunes:explicit>no</itunes:explicit>
+        <item>
+            <title>初めに</title>
+            <itunes:author>ユウト</itunes:author>
+            <itunes:summary>《リクエストフォーム》
+                https://forms.gle/x5juAM11Uj3SX6tH8</itunes:summary>
+            <description>《リクエストフォーム》
+                https://forms.gle/x5juAM11Uj3SX6tH8</description>
+            <enclosure
+                url="https://media.githubusercontent.com/media/yuto-watanabe0716/yuto-voice/refs/heads/main/podcast/yuto-voice/%E4%BF%AE%E6%AD%A3%E5%88%9D%E3%82%81%E3%81%AB.mp3"
+                length="1842192" type="audio/mpeg" />
+            <guid>
+                https://media.githubusercontent.com/media/yuto-watanabe0716/yuto-voice/refs/heads/main/podcast/yuto-voice/%E4%BF%AE%E6%AD%A3%E5%88%9D%E3%82%81%E3%81%AB.mp3
+            </guid>
+            <pubDate>Wed, 28 Jan 2026 15:00:00 GMT</pubDate>
+            <itunes:duration>76</itunes:duration>
+            <itunes:explicit>no</itunes:explicit>
+            <itunes:image
+                href="https://utagesystem.s3.ap-northeast-1.amazonaws.com/yL3LZRmZIOUN/nnRF4ERE0XXR2RYGbFGvUpCbOfpOQBBRChrNF7eK.jpg" />
+        </item>
+        <item>
+            <title>トロさは罪</title>
+            <itunes:author>ユウト</itunes:author>
+            <itunes:summary>《リクエストフォーム》
+                https://forms.gle/x5juAM11Uj3SX6tH8</itunes:summary>
+            <description>《リクエストフォーム》
+                https://forms.gle/x5juAM11Uj3SX6tH8</description>
+            <enclosure
+                url="https://media.githubusercontent.com/media/yuto-watanabe0716/yuto-voice/refs/heads/main/podcast/yuto-voice/%E4%BF%AE%E6%AD%A3%E7%89%88%E3%83%88%E3%83%AD%E3%81%95%E3%81%AF%E3%81%A4%E3%81%BF.mp3"
+                length="13055484" type="audio/mpeg" />
+            <guid>
+                https://media.githubusercontent.com/media/yuto-watanabe0716/yuto-voice/refs/heads/main/podcast/yuto-voice/%E4%BF%AE%E6%AD%A3%E7%89%88%E3%83%88%E3%83%AD%E3%81%95%E3%81%AF%E3%81%A4%E3%81%BF.mp3
+            </guid>
+            <pubDate>Wed, 28 Jan 2026 16:00:00 GMT</pubDate>
+            <itunes:duration>543</itunes:duration>
+            <itunes:explicit>no</itunes:explicit>
+            <itunes:image
+                href="https://utagesystem.s3.ap-northeast-1.amazonaws.com/yL3LZRmZIOUN/2sJZkSRIy9Yxuu92lm4q6zYcvRjmKcGax4gTBPmQ.jpg" />
+        </item>
+        <item>
+            <title>自分らしさを捨てる勇気</title>
+            <itunes:author>ユウト</itunes:author>
+            <itunes:summary>《リクエストフォーム》
+                https://forms.gle/x5juAM11Uj3SX6tH8</itunes:summary>
+            <description>《リクエストフォーム》
+                https://forms.gle/x5juAM11Uj3SX6tH8</description>
+            <enclosure
+                url="https://media.githubusercontent.com/media/yuto-watanabe0716/yuto-voice/refs/heads/main/podcast/yuto-voice/%E8%87%AA%E5%88%86%E3%82%89%E3%81%97%E3%81%95%E3%82%92%E6%8D%A8%E3%81%A6%E3%82%8B%E5%8B%87%E6%B0%97.mp3"
+                length="8528382" type="audio/mpeg" />
+            <guid>
+                https://media.githubusercontent.com/media/yuto-watanabe0716/yuto-voice/refs/heads/main/podcast/yuto-voice/%E8%87%AA%E5%88%86%E3%82%89%E3%81%97%E3%81%95%E3%82%92%E6%8D%A8%E3%81%A6%E3%82%8B%E5%8B%87%E6%B0%97.mp3
+            </guid>
+            <pubDate>Wed, 28 Jan 2026 17:00:00 GMT</pubDate>
+            <itunes:duration>355</itunes:duration>
+            <itunes:explicit>no</itunes:explicit>
+            <itunes:image
+                href="https://utagesystem.s3.ap-northeast-1.amazonaws.com/yL3LZRmZIOUN/Kg7DpZY9BWkrQBlK86Mw9iZl4I189PKxGgethms6.jpg" />
+        </item>
+        <item>
+            <title>タワマンに住んでみた感想</title>
+            <itunes:author>ユウト</itunes:author>
+            <itunes:summary>《リクエストフォーム》
+                https://forms.gle/x5juAM11Uj3SX6tH8</itunes:summary>
+            <description>《リクエストフォーム》
+                https://forms.gle/x5juAM11Uj3SX6tH8</description>
+            <enclosure
+                url="https://media.githubusercontent.com/media/yuto-watanabe0716/yuto-voice/refs/heads/main/podcast/yuto-voice/%E3%82%BF%E3%83%AF%E3%83%9E%E3%83%B3%E3%81%AB%E4%BD%8F%E3%82%93%E3%81%A7%E3%81%BF%E3%81%9F%E6%84%9F%E6%83%B3.mp3"
+                length="10683250" type="audio/mpeg" />
+            <guid>
+                https://media.githubusercontent.com/media/yuto-watanabe0716/yuto-voice/refs/heads/main/podcast/yuto-voice/%E3%82%BF%E3%83%AF%E3%83%9E%E3%83%B3%E3%81%AB%E4%BD%8F%E3%82%93%E3%81%A7%E3%81%BF%E3%81%9F%E6%84%9F%E6%83%B3.mp3
+            </guid>
+            <pubDate>Wed, 28 Jan 2026 18:00:00 GMT</pubDate>
+            <itunes:duration>445</itunes:duration>
+            <itunes:explicit>no</itunes:explicit>
+            <itunes:image
+                href="https://utagesystem.s3.ap-northeast-1.amazonaws.com/yL3LZRmZIOUN/Lo0L7SESKdzIa4bQZvViuFoANHJjDa95foQgNbOw.jpg" />
+        </item>
+        <item>
+            <title>目標への体感値</title>
+            <itunes:author>ユウト</itunes:author>
+            <itunes:summary>《リクエストフォーム》
+                https://forms.gle/x5juAM11Uj3SX6tH8</itunes:summary>
+            <description>《リクエストフォーム》
+                https://forms.gle/x5juAM11Uj3SX6tH8</description>
+            <enclosure
+                url="https://media.githubusercontent.com/media/yuto-watanabe0716/yuto-voice/refs/heads/main/podcast/yuto-voice/%E7%9B%AE%E6%A8%99%E3%81%B8%E3%81%AE%E4%BD%93%E6%84%9F%E5%80%A4.mp3"
+                length="16053536" type="audio/mpeg" />
+            <guid>
+                https://media.githubusercontent.com/media/yuto-watanabe0716/yuto-voice/refs/heads/main/podcast/yuto-voice/%E7%9B%AE%E6%A8%99%E3%81%B8%E3%81%AE%E4%BD%93%E6%84%9F%E5%80%A4.mp3
+            </guid>
+            <pubDate>Wed, 28 Jan 2026 19:00:00 GMT</pubDate>
+            <itunes:duration>668</itunes:duration>
+            <itunes:explicit>no</itunes:explicit>
+            <itunes:image
+                href="https://utagesystem.s3.ap-northeast-1.amazonaws.com/yL3LZRmZIOUN/v70SYwlcLBczGpoyyQLAbJDnW3p2R2pV8y6yxrfF.png" />
+        </item>
+        <item>
+            <title>セールスをどう学んだか</title>
+            <itunes:author>ユウト</itunes:author>
+            <itunes:summary>《リクエストフォーム》
+                https://forms.gle/x5juAM11Uj3SX6tH8</itunes:summary>
+            <description>《リクエストフォーム》
+                https://forms.gle/x5juAM11Uj3SX6tH8</description>
+            <enclosure
+                url="https://media.githubusercontent.com/media/yuto-watanabe0716/yuto-voice/refs/heads/main/podcast/yuto-voice/%E3%82%BB%E3%83%BC%E3%83%AB%E3%82%B9%E3%82%92%E3%81%A9%E3%81%86%E5%AD%A6%E3%82%93%E3%81%A0%E3%81%8B.mp3"
+                length="18166724" type="audio/mpeg" />
+            <guid>
+                https://media.githubusercontent.com/media/yuto-watanabe0716/yuto-voice/refs/heads/main/podcast/yuto-voice/%E3%82%BB%E3%83%BC%E3%83%AB%E3%82%B9%E3%82%92%E3%81%A9%E3%81%86%E5%AD%A6%E3%82%93%E3%81%A0%E3%81%8B.mp3
+            </guid>
+            <pubDate>Wed, 28 Jan 2026 20:00:00 GMT</pubDate>
+            <itunes:duration>756</itunes:duration>
+            <itunes:explicit>no</itunes:explicit>
+            <itunes:image
+                href="https://utagesystem.s3.ap-northeast-1.amazonaws.com/yL3LZRmZIOUN/8zaZTQBV94QZxvcZqVYeQBQunww3roxItPGLYZFO.jpg" />
+        </item>
+        <item>
+            <title>不安の正体</title>
+            <itunes:author>ユウト</itunes:author>
+            <itunes:summary>《リクエストフォーム》
+                https://forms.gle/x5juAM11Uj3SX6tH8</itunes:summary>
+            <description>《リクエストフォーム》
+                https://forms.gle/x5juAM11Uj3SX6tH8</description>
+            <enclosure
+                url="https://media.githubusercontent.com/media/yuto-watanabe0716/yuto-voice/refs/heads/main/podcast/yuto-voice/%E4%B8%8D%E5%AE%89%E3%81%AE%E6%AD%A3%E4%BD%93.mp3"
+                length="15052753" type="audio/mpeg" />
+            <guid>
+                https://media.githubusercontent.com/media/yuto-watanabe0716/yuto-voice/refs/heads/main/podcast/yuto-voice/%E4%B8%8D%E5%AE%89%E3%81%AE%E6%AD%A3%E4%BD%93.mp3
+            </guid>
+            <pubDate>Wed, 28 Jan 2026 21:00:00 GMT</pubDate>
+            <itunes:duration>625</itunes:duration>
+            <itunes:explicit>no</itunes:explicit>
+            <itunes:image
+                href="https://utagesystem.s3.ap-northeast-1.amazonaws.com/yL3LZRmZIOUN/nOfx3DrWsq1dulPiL8jZtfcvNRwBU8kUIK3ZTC0O.jpg" />
+        </item>
+        <item>
+            <title>やれ</title>
+            <itunes:author>ユウト</itunes:author>
+            <itunes:summary>《リクエストフォーム》
+                https://forms.gle/x5juAM11Uj3SX6tH8</itunes:summary>
+            <description>《リクエストフォーム》
+                https://forms.gle/x5juAM11Uj3SX6tH8</description>
+            <enclosure
+                url="https://media.githubusercontent.com/media/yuto-watanabe0716/yuto-voice/refs/heads/main/podcast/yuto-voice/%E3%82%84%E3%82%8C.mp3"
+                length="1469184" type="audio/mpeg" />
+            <guid>
+                https://media.githubusercontent.com/media/yuto-watanabe0716/yuto-voice/refs/heads/main/podcast/yuto-voice/%E3%82%84%E3%82%8C.mp3
+            </guid>
+            <pubDate>Sat, 31 Jan 2026 00:00:00 GMT</pubDate>
+            <itunes:duration>45</itunes:duration>
+            <itunes:explicit>no</itunes:explicit>
+            <itunes:image
+                href="https://utagesystem.s3.ap-northeast-1.amazonaws.com/yL3LZRmZIOUN/mZwPH6WYwdYsgHLFuiVFoM8aRVBFcuVl8L05Nv0H.png" />
+        </item>
+        <item>
+            <title>メンタル</title>
+            <itunes:author>ユウト</itunes:author>
+            <itunes:summary>《リクエストフォーム》
+                https://forms.gle/x5juAM11Uj3SX6tH8</itunes:summary>
+            <description>《リクエストフォーム》
+                https://forms.gle/x5juAM11Uj3SX6tH8</description>
+            <enclosure
+                url="https://media.githubusercontent.com/media/yuto-watanabe0716/yuto-voice/refs/heads/main/podcast/yuto-voice/%E2%AD%90%EF%B8%8F%E3%82%A2%E3%83%83%E3%83%97%E7%89%88%E3%83%A1%E3%83%B3%E3%82%BF%E3%83%AB.mp3"
+                length="11075043" type="audio/mpeg" />
+            <guid>
+                https://media.githubusercontent.com/media/yuto-watanabe0716/yuto-voice/refs/heads/main/podcast/yuto-voice/%E2%AD%90%EF%B8%8F%E3%82%A2%E3%83%83%E3%83%97%E7%89%88%E3%83%A1%E3%83%B3%E3%82%BF%E3%83%AB.mp3
+            </guid>
+            <pubDate>Sun, 01 Feb 2026 09:00:00 GMT</pubDate>
+            <itunes:duration>461</itunes:duration>
+            <itunes:explicit>no</itunes:explicit>
+            <itunes:image
+                href="https://utagesystem.s3.ap-northeast-1.amazonaws.com/yL3LZRmZIOUN/etDAesBQcOKHAt2NaKmmcbjXTTS4D4c2oHM1dg4U.png" />
+        </item>
+        <item>
+            <title>完成されたセールス</title>
+            <itunes:author>ユウト</itunes:author>
+            <itunes:summary>《リクエストフォーム》
+                https://forms.gle/x5juAM11Uj3SX6tH8</itunes:summary>
+            <description>《リクエストフォーム》
+                https://forms.gle/x5juAM11Uj3SX6tH8</description>
+            <enclosure
+                url="https://media.githubusercontent.com/media/yuto-watanabe0716/yuto-voice/refs/heads/main/podcast/yuto-voice/%E2%AD%90%EF%B8%8F%E3%82%A2%E3%83%83%E3%83%97%E7%89%88%E5%AE%8C%E6%88%90%E3%81%95%E3%82%8C%E3%81%9F%E3%82%BB%E3%83%BC%E3%83%AB%E3%82%B9%E3%81%A8%E3%81%AF.mp3"
+                length="18447482" type="audio/mpeg" />
+            <guid>
+                https://media.githubusercontent.com/media/yuto-watanabe0716/yuto-voice/refs/heads/main/podcast/yuto-voice/%E2%AD%90%EF%B8%8F%E3%82%A2%E3%83%83%E3%83%97%E7%89%88%E5%AE%8C%E6%88%90%E3%81%95%E3%82%8C%E3%81%9F%E3%82%BB%E3%83%BC%E3%83%AB%E3%82%B9%E3%81%A8%E3%81%AF.mp3
+            </guid>
+            <pubDate>Sun, 01 Feb 2026 09:05:00 GMT</pubDate>
+            <itunes:duration>768</itunes:duration>
+            <itunes:explicit>no</itunes:explicit>
+            <itunes:image
+                href="https://utagesystem.s3.ap-northeast-1.amazonaws.com/yL3LZRmZIOUN/jMWPuK6GHClfiDINx1AEjSP6HjpTLsAFUwACGhkn.png" />
+        </item>
+        <item>
+            <title>マインドブロック</title>
+            <itunes:author>ユウト</itunes:author>
+            <itunes:summary>《リクエストフォーム》
+                https://forms.gle/x5juAM11Uj3SX6tH8</itunes:summary>
+            <description>《リクエストフォーム》
+                https://forms.gle/x5juAM11Uj3SX6tH8</description>
+            <enclosure
+                url="https://media.githubusercontent.com/media/yuto-watanabe0716/yuto-voice/refs/heads/main/podcast/yuto-voice/%E3%83%9E%E3%82%A4%E3%83%B3%E3%83%89%E3%83%96%E3%83%AD%E3%83%83%E3%82%AF.mp3"
+                length="17501952" type="audio/mpeg" />
+            <guid>
+                https://media.githubusercontent.com/media/yuto-watanabe0716/yuto-voice/refs/heads/main/podcast/yuto-voice/%E3%83%9E%E3%82%A4%E3%83%B3%E3%83%89%E3%83%96%E3%83%AD%E3%83%83%E3%82%AF.mp3
+            </guid>
+            <pubDate>Wed, 04 Feb 2026 09:00:00 GMT</pubDate>
+            <itunes:duration>547</itunes:duration>
+            <itunes:explicit>no</itunes:explicit>
+            <itunes:image
+                href="https://utagesystem.s3.ap-northeast-1.amazonaws.com/yL3LZRmZIOUN/I2Jk8ade4Hqz1IoQ4zpXjl0hAn4QwiVj0vOHq84Q.png" />
+        </item>
+        <item>
+            <title>【豊岡】読心力</title>
+            <itunes:author>ユウト</itunes:author>
+            <itunes:summary>《リクエストフォーム》
+                https://forms.gle/x5juAM11Uj3SX6tH8</itunes:summary>
+            <description>《リクエストフォーム》
+                https://forms.gle/x5juAM11Uj3SX6tH8</description>
+            <enclosure
+                url="https://media.githubusercontent.com/media/yuto-watanabe0716/yuto-voice/refs/heads/main/podcast/yuto-voice/%E8%AA%AD%E5%BF%83%E5%8A%9B.mp3"
+                length="13424989" type="audio/mpeg" />
+            <guid>
+                https://media.githubusercontent.com/media/yuto-watanabe0716/yuto-voice/refs/heads/main/podcast/yuto-voice/%E8%AA%AD%E5%BF%83%E5%8A%9B.mp3
+            </guid>
+            <pubDate>Thu, 05 Feb 2026 00:00:00 GMT</pubDate>
+            <itunes:duration>558</itunes:duration>
+            <itunes:explicit>no</itunes:explicit>
+            <itunes:image
+                href="https://utagesystem.s3.ap-northeast-1.amazonaws.com/yL3LZRmZIOUN/KSIXvnuPyzMC2GG2kHu02K2mZMh6LcYhKBFXhZyC.png" />
+        </item>
+        <item>
+            <title>覚悟度合いで結果は決まる</title>
+            <itunes:author>ユウト</itunes:author>
+            <itunes:summary>《リクエストフォーム》
+                https://forms.gle/x5juAM11Uj3SX6tH8</itunes:summary>
+            <description>《リクエストフォーム》
+                https://forms.gle/x5juAM11Uj3SX6tH8</description>
+            <enclosure
+                url="https://media.githubusercontent.com/media/yuto-watanabe0716/yuto-voice/refs/heads/main/podcast/yuto-voice/%E8%A6%9A%E6%82%9F.mp3"
+                length="13061830" type="audio/mpeg" />
+            <guid>
+                https://media.githubusercontent.com/media/yuto-watanabe0716/yuto-voice/refs/heads/main/podcast/yuto-voice/%E8%A6%9A%E6%82%9F.mp3
+            </guid>
+            <pubDate>Fri, 06 Feb 2026 13:00:00 GMT</pubDate>
+            <itunes:duration>540</itunes:duration>
+            <itunes:explicit>no</itunes:explicit>
+            <itunes:image
+                href="https://utagesystem.s3.ap-northeast-1.amazonaws.com/yL3LZRmZIOUN/edMfSrJ3JAKXJFz1Xz9ayock0CzxOtXhGRjM6gIU.png" />
+        </item>
+        <item>
+            <title>【尾形】在り方</title>
+            <itunes:author>ユウト</itunes:author>
+            <itunes:summary>《リクエストフォーム》
+                https://forms.gle/x5juAM11Uj3SX6tH8</itunes:summary>
+            <description>《リクエストフォーム》
+                https://forms.gle/x5juAM11Uj3SX6tH8</description>
+            <enclosure
+                url="https://media.githubusercontent.com/media/yuto-watanabe0716/yuto-voice/refs/heads/main/podcast/yuto-voice/%E3%80%90%E5%B0%BE%E5%BD%A2%E3%80%91%E5%9C%A8%E3%82%8A%E6%96%B9.mp3"
+                length="14528256" type="audio/mpeg" />
+            <guid>
+                https://media.githubusercontent.com/media/yuto-watanabe0716/yuto-voice/refs/heads/main/podcast/yuto-voice/%E3%80%90%E5%B0%BE%E5%BD%A2%E3%80%91%E5%9C%A8%E3%82%8A%E6%96%B9.mp3
+            </guid>
+            <pubDate>Fri, 06 Feb 2026 14:00:00 GMT</pubDate>
+            <itunes:duration>454</itunes:duration>
+            <itunes:explicit>no</itunes:explicit>
+            <itunes:image
+                href="https://utagesystem.s3.ap-northeast-1.amazonaws.com/yL3LZRmZIOUN/2SPZ6WY9zenL7yTmRUP14tvhLfkgvkmdUZ6IZaHY.png" />
+        </item>
+        <item>
+            <title>【対話】岡崎✖️伊藤</title>
+            <itunes:author>ユウト</itunes:author>
+            <itunes:summary>《リクエストフォーム》
+                https://forms.gle/x5juAM11Uj3SX6tH8</itunes:summary>
+            <description>《リクエストフォーム》
+                https://forms.gle/x5juAM11Uj3SX6tH8</description>
+            <enclosure
+                url="https://media.githubusercontent.com/media/yuto-watanabe0716/yuto-voice/refs/heads/main/podcast/yuto-voice/%E5%B2%A1%E5%B4%8E%26%E4%BC%8A%E8%97%A4%E3%83%88%E3%83%BC%E3%82%AF.mp3"
+                length="83485105" type="audio/mpeg" />
+            <guid>
+                https://media.githubusercontent.com/media/yuto-watanabe0716/yuto-voice/refs/heads/main/podcast/yuto-voice/%E5%B2%A1%E5%B4%8E%26%E4%BC%8A%E8%97%A4%E3%83%88%E3%83%BC%E3%82%AF.mp3
+            </guid>
+            <pubDate>Fri, 07 Feb 2026 15:00:00 GMT</pubDate>
+            <itunes:duration>3478</itunes:duration>
+            <itunes:explicit>no</itunes:explicit>
+            <itunes:image
+                href="https://utagesystem.s3.ap-northeast-1.amazonaws.com/yL3LZRmZIOUN/jJVCkM2OfWvcCNjdW3Wtpsmc3Yh1AxpJnkPuBANy.png" />
+        </item>
+        <item>
+            <title>【対話】上野✖︎豊岡</title>
+            <itunes:author>ユウト</itunes:author>
+            <itunes:summary>《リクエストフォーム》
+                https://forms.gle/x5juAM11Uj3SX6tH8</itunes:summary>
+            <description>《リクエストフォーム》
+                https://forms.gle/x5juAM11Uj3SX6tH8</description>
+            <enclosure
+                url="https://media.githubusercontent.com/media/yuto-watanabe0716/yuto-voice/refs/heads/main/podcast/yuto-voice/%E4%B8%8A%E9%87%8E%26%E8%B1%8A%E5%B2%A1%E3%83%88%E3%83%BC%E3%82%AF.mp3"
+                length="102844506" type="audio/mpeg" />
+            <guid>
+                https://media.githubusercontent.com/media/yuto-watanabe0716/yuto-voice/refs/heads/main/podcast/yuto-voice/%E4%B8%8A%E9%87%8E%26%E8%B1%8A%E5%B2%A1%E3%83%88%E3%83%BC%E3%82%AF.mp3
+            </guid>
+            <pubDate>Fri, 07 Feb 2026 16:00:00 GMT</pubDate>
+            <itunes:duration>4285</itunes:duration>
+            <itunes:explicit>no</itunes:explicit>
+            <itunes:image
+                href="https://utagesystem.s3.ap-northeast-1.amazonaws.com/yL3LZRmZIOUN/yYwmKBJPZ8sOcUoOlbn1iu1MfyJLIxxc88IkkMQy.png" />
+        </item>
+        <item>
+            <title>方向性</title>
+            <itunes:author>ユウト</itunes:author>
+            <itunes:summary>《リクエストフォーム》
+                https://forms.gle/x5juAM11Uj3SX6tH8</itunes:summary>
+            <description>《リクエストフォーム》
+                https://forms.gle/x5juAM11Uj3SX6tH8</description>
+            <enclosure
+                url="https://media.githubusercontent.com/media/yuto-watanabe0716/yuto-voice/refs/heads/main/podcast/yuto-voice/%E3%83%81%E3%83%A3%E3%83%B3%E3%82%B9.mp3"
+                length="25882962" type="audio/mpeg" />
+            <guid>
+                https://media.githubusercontent.com/media/yuto-watanabe0716/yuto-voice/refs/heads/main/podcast/yuto-voice/%E3%83%81%E3%83%A3%E3%83%B3%E3%82%B9.mp3
+            </guid>
+            <pubDate>Tue, 17 Feb 2026 05:24:00 GMT</pubDate>
+            <itunes:duration>1077</itunes:duration>
+            <itunes:explicit>no</itunes:explicit>
+            <itunes:image
+                href="https://utagesystem.s3.ap-northeast-1.amazonaws.com/yL3LZRmZIOUN/K8lsk5OwOteWdn4X8UI6I30Ga8nFchkNlxCnhZa4.png" />
+        </item>
+    </channel>
 </rss>
