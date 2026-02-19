@@ -336,5 +336,24 @@
             <itunes:image
                 href="https://utagesystem.s3.ap-northeast-1.amazonaws.com/yL3LZRmZIOUN/K8lsk5OwOteWdn4X8UI6I30Ga8nFchkNlxCnhZa4.png" />
         </item>
+        <item>
+            <title>熱海</title>
+            <itunes:author>ユウト</itunes:author>
+            <itunes:summary>《リクエストフォーム》
+                https://forms.gle/x5juAM11Uj3SX6tH8</itunes:summary>
+            <description>《リクエストフォーム》
+                https://forms.gle/x5juAM11Uj3SX6tH8</description>
+            <enclosure
+                url="https://media.githubusercontent.com/media/yuto-watanabe0716/yuto-voice/refs/heads/main/podcast/yuto-voice/%E7%86%B1%E6%B5%B7%E3%81%AE%E3%82%88%E3%81%95.mp3"
+                length="25191753" type="audio/mpeg" />
+            <guid>
+                https://media.githubusercontent.com/media/yuto-watanabe0716/yuto-voice/refs/heads/main/podcast/yuto-voice/%E7%86%B1%E6%B5%B7%E3%81%AE%E3%82%88%E3%81%95.mp3
+            </guid>
+            <pubDate>Thu, 19 Feb 2026 01:00:00 GMT</pubDate>
+            <itunes:duration>1047</itunes:duration>
+            <itunes:explicit>no</itunes:explicit>
+            <itunes:image
+                href="https://utagesystem.s3.ap-northeast-1.amazonaws.com/yL3LZRmZIOUN/d0ActTCUHmTos4HWu3dt3ndWkqPFrNw5QoTeuMPH.jpg" />
+        </item>
     </channel>
 </rss>
