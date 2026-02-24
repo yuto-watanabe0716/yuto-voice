@@ -336,5 +336,22 @@
             <itunes:image
                 href="https://utagesystem.s3.ap-northeast-1.amazonaws.com/yL3LZRmZIOUN/0YJ4nmCtKYointDG4P1MIhaDiCc2BfJGeVINl2S5.png" />
         </item>
+        <item>
+            <title>マーケ雑談</title>
+            <itunes:author>ユウト</itunes:author>
+            <itunes:summary>《リクエストフォーム》
+                https://forms.gle/x5juAM11Uj3SX6tH8</itunes:summary>
+            <description>《リクエストフォーム》
+                https://forms.gle/x5juAM11Uj3SX6tH8</description>
+            <enclosure
+                url="https://media.githubusercontent.com/media/yuto-watanabe0716/yuto-voice/refs/heads/main/podcast/yuto-voice/%E3%83%9E%E3%83%BC%E3%82%B1%E9%9B%91%E8%AB%87.mp3"
+                length="161780980" type="audio/mpeg" />
+            <guid isPermaLink="false">https://media.githubusercontent.com/media/yuto-watanabe0716/yuto-voice/refs/heads/main/podcast/yuto-voice/%E3%83%9E%E3%83%BC%E3%82%B1%E9%9B%91%E8%AB%87.mp3</guid>
+            <pubDate>Mon, 24 Feb 2026 12:00:00 GMT</pubDate>
+            <itunes:duration>3130</itunes:duration>
+            <itunes:explicit>no</itunes:explicit>
+            <itunes:image
+                href="https://utagesystem.s3.ap-northeast-1.amazonaws.com/yL3LZRmZIOUN/cafwFHDACKdHYiytPVjVmuk7aJQ4OOusgBh3bBqM.png" />
+        </item>
     </channel>
 </rss>
