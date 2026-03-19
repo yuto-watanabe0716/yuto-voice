@@ -387,5 +387,22 @@
             <itunes:image
                 href="https://utagesystem.s3.ap-northeast-1.amazonaws.com/yL3LZRmZIOUN/YePxtFGZ7ydygSkhQJMYMBNLf41W8jK6plgYRIbB.png" />
         </item>
+        <item>
+            <title>頭の良さ</title>
+            <itunes:author>ユウト</itunes:author>
+            <itunes:summary>《リクエストフォーム》
+                https://forms.gle/x5juAM11Uj3SX6tH8</itunes:summary>
+            <description>《リクエストフォーム》
+                https://forms.gle/x5juAM11Uj3SX6tH8</description>
+            <enclosure
+                url="https://media.githubusercontent.com/media/yuto-watanabe0716/yuto-voice/refs/heads/main/podcast/yuto-voice/%E9%A0%AD%E3%81%AE%E8%89%AF%E3%81%95.mp3"
+                length="13193444" type="audio/mpeg" />
+            <guid isPermaLink="false">https://media.githubusercontent.com/media/yuto-watanabe0716/yuto-voice/refs/heads/main/podcast/yuto-voice/%E9%A0%AD%E3%81%AE%E8%89%AF%E3%81%95.mp3</guid>
+            <pubDate>Thu, 19 Mar 2026 23:30:00 GMT</pubDate>
+            <itunes:duration>548</itunes:duration>
+            <itunes:explicit>no</itunes:explicit>
+            <itunes:image
+                href="https://utagesystem.s3.ap-northeast-1.amazonaws.com/yL3LZRmZIOUN/3buxS8HxkbN58VBZbjyglY27Qv8BfdTQRq6jrHl5.png" />
+        </item>
     </channel>
 </rss>
