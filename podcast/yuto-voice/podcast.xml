@@ -387,39 +387,5 @@
             <itunes:image
                 href="https://utagesystem.s3.ap-northeast-1.amazonaws.com/yL3LZRmZIOUN/YePxtFGZ7ydygSkhQJMYMBNLf41W8jK6plgYRIbB.png" />
         </item>
-        <item>
-            <title>頭の良さ</title>
-            <itunes:author>ユウト</itunes:author>
-            <itunes:summary>《リクエストフォーム》
-                https://forms.gle/x5juAM11Uj3SX6tH8</itunes:summary>
-            <description>《リクエストフォーム》
-                https://forms.gle/x5juAM11Uj3SX6tH8</description>
-            <enclosure
-                url="https://media.githubusercontent.com/media/yuto-watanabe0716/yuto-voice/refs/heads/main/podcast/yuto-voice/%E9%A0%AD%E3%81%AE%E8%89%AF%E3%81%95.mp3"
-                length="13193444" type="audio/mpeg" />
-            <guid isPermaLink="false">https://media.githubusercontent.com/media/yuto-watanabe0716/yuto-voice/refs/heads/main/podcast/yuto-voice/%E9%A0%AD%E3%81%AE%E8%89%AF%E3%81%95.mp3</guid>
-            <pubDate>Fri, 20 Mar 2026 00:00:00 GMT</pubDate>
-            <itunes:duration>548</itunes:duration>
-            <itunes:explicit>no</itunes:explicit>
-            <itunes:image
-                href="https://utagesystem.s3.ap-northeast-1.amazonaws.com/yL3LZRmZIOUN/3buxS8HxkbN58VBZbjyglY27Qv8BfdTQRq6jrHl5.png" />
-        </item>
-        <item>
-            <title>最近すごいこの人</title>
-            <itunes:author>ユウト</itunes:author>
-            <itunes:summary>《リクエストフォーム》
-                https://forms.gle/x5juAM11Uj3SX6tH8</itunes:summary>
-            <description>《リクエストフォーム》
-                https://forms.gle/x5juAM11Uj3SX6tH8</description>
-            <enclosure
-                url="https://media.githubusercontent.com/media/yuto-watanabe0716/yuto-voice/refs/heads/main/podcast/yuto-voice/%E6%9C%80%E8%BF%91%E3%81%99%E3%81%94%E3%81%84%E3%81%93%E3%81%AE%E4%BA%BA.mp3"
-                length="14582822" type="audio/mpeg" />
-            <guid isPermaLink="false">https://media.githubusercontent.com/media/yuto-watanabe0716/yuto-voice/refs/heads/main/podcast/yuto-voice/%E6%9C%80%E8%BF%91%E3%81%99%E3%81%94%E3%81%84%E3%81%93%E3%81%AE%E4%BA%BA.mp3</guid>
-            <pubDate>Sat, 21 Mar 2026 00:00:00 GMT</pubDate>
-            <itunes:duration>607</itunes:duration>
-            <itunes:explicit>no</itunes:explicit>
-            <itunes:image
-                href="https://utagesystem.s3.ap-northeast-1.amazonaws.com/yL3LZRmZIOUN/93RBdPIixhcNLLXaAs0sjjPcwEu2p4KgeqkoA8e3.png" />
-        </item>
     </channel>
 </rss>
