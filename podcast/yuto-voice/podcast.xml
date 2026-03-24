@@ -404,5 +404,22 @@
             <itunes:image
                 href="https://utagesystem.s3.ap-northeast-1.amazonaws.com/yL3LZRmZIOUN/3buxS8HxkbN58VBZbjyglY27Qv8BfdTQRq6jrHl5.png" />
         </item>
+        <item>
+            <title>この人</title>
+            <itunes:author>ユウト</itunes:author>
+            <itunes:summary>《リクエストフォーム》
+                https://forms.gle/x5juAM11Uj3SX6tH8</itunes:summary>
+            <description>《リクエストフォーム》
+                https://forms.gle/x5juAM11Uj3SX6tH8</description>
+            <enclosure
+                url="https://media.githubusercontent.com/media/yuto-watanabe0716/yuto-voice/refs/heads/main/podcast/yuto-voice/%E3%81%93%E3%81%AE%E4%BA%BA%E3%81%84%E3%81%84%E3%81%AA.mp3"
+                length="14582822" type="audio/mpeg" />
+            <guid isPermaLink="false">https://media.githubusercontent.com/media/yuto-watanabe0716/yuto-voice/refs/heads/main/podcast/yuto-voice/%E3%81%93%E3%81%AE%E4%BA%BA%E3%81%84%E3%81%84%E3%81%AA.mp3</guid>
+            <pubDate>Tue, 24 Mar 2026 00:00:00 GMT</pubDate>
+            <itunes:duration>607</itunes:duration>
+            <itunes:explicit>no</itunes:explicit>
+            <itunes:image
+                href="https://utagesystem.s3.ap-northeast-1.amazonaws.com/yL3LZRmZIOUN/93RBdPIixhcNLLXaAs0sjjPcwEu2p4KgeqkoA8e3.png" />
+        </item>
     </channel>
 </rss>
