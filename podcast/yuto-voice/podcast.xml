@@ -421,5 +421,22 @@
             <itunes:image
                 href="https://utagesystem.s3.ap-northeast-1.amazonaws.com/yL3LZRmZIOUN/93RBdPIixhcNLLXaAs0sjjPcwEu2p4KgeqkoA8e3.png" />
         </item>
+        <item>
+            <title>【MG対談】歴史 vol.1</title>
+            <itunes:author>ユウト</itunes:author>
+            <itunes:summary>《リクエストフォーム》
+                https://forms.gle/x5juAM11Uj3SX6tH8</itunes:summary>
+            <description>《リクエストフォーム》
+                https://forms.gle/x5juAM11Uj3SX6tH8</description>
+            <enclosure
+                url="https://media.githubusercontent.com/media/yuto-watanabe0716/yuto-voice/refs/heads/main/podcast/yuto-voice/%E6%AD%B4%E5%8F%B2No.m4a"
+                length="17552690" type="audio/x-m4a" />
+            <guid isPermaLink="false">https://media.githubusercontent.com/media/yuto-watanabe0716/yuto-voice/refs/heads/main/podcast/yuto-voice/%E6%AD%B4%E5%8F%B2No.m4a</guid>
+            <pubDate>Sat, 28 Mar 2026 03:00:00 GMT</pubDate>
+            <itunes:duration>2042</itunes:duration>
+            <itunes:explicit>no</itunes:explicit>
+            <itunes:image
+                href="https://utagesystem.s3.ap-northeast-1.amazonaws.com/yL3LZRmZIOUN/kwUSfeYKcfQz5hAvTtq5K1U7bqTtpFtfSDfboL9Z.jpg" />
+        </item>
     </channel>
 </rss>
