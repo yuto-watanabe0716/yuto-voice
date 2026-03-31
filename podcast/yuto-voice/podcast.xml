@@ -455,5 +455,22 @@
             <itunes:image
                 href="https://utagesystem.s3.ap-northeast-1.amazonaws.com/yL3LZRmZIOUN/k5vVSa62gyp4pChUznUmP69TomcpqOWweimDbLea.png" />
         </item>
+        <item>
+            <title>負荷は神</title>
+            <itunes:author>ユウト</itunes:author>
+            <itunes:summary>《リクエストフォーム》
+                https://forms.gle/x5juAM11Uj3SX6tH8</itunes:summary>
+            <description>《リクエストフォーム》
+                https://forms.gle/x5juAM11Uj3SX6tH8</description>
+            <enclosure
+                url="https://media.githubusercontent.com/media/yuto-watanabe0716/yuto-voice/refs/heads/main/podcast/yuto-voice/%E8%B2%A0%E8%8D%B7%E3%81%AF%E7%A5%9E.mp3"
+                length="14519295" type="audio/mpeg" />
+            <guid isPermaLink="false">https://media.githubusercontent.com/media/yuto-watanabe0716/yuto-voice/refs/heads/main/podcast/yuto-voice/%E8%B2%A0%E8%8D%B7%E3%81%AF%E7%A5%9E.mp3</guid>
+            <pubDate>Tue, 31 Mar 2026 02:30:00 GMT</pubDate>
+            <itunes:duration>603</itunes:duration>
+            <itunes:explicit>no</itunes:explicit>
+            <itunes:image
+                href="https://utagesystem.s3.ap-northeast-1.amazonaws.com/yL3LZRmZIOUN/ftmh4EOs0potdDpTQakTx4gSKIK10WGtJQrcIpN0.png" />
+        </item>
     </channel>
 </rss>
