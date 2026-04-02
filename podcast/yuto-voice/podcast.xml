@@ -472,5 +472,22 @@
             <itunes:image
                 href="https://utagesystem.s3.ap-northeast-1.amazonaws.com/yL3LZRmZIOUN/ftmh4EOs0potdDpTQakTx4gSKIK10WGtJQrcIpN0.png" />
         </item>
+        <item>
+            <title>お金は使え</title>
+            <itunes:author>ユウト</itunes:author>
+            <itunes:summary>《リクエストフォーム》
+                https://forms.gle/x5juAM11Uj3SX6tH8</itunes:summary>
+            <description>《リクエストフォーム》
+                https://forms.gle/x5juAM11Uj3SX6tH8</description>
+            <enclosure
+                url="https://media.githubusercontent.com/media/yuto-watanabe0716/yuto-voice/refs/heads/main/podcast/yuto-voice/%E3%81%8A%E9%87%91%E4%BD%BF%E3%81%88.mp3"
+                length="14353074" type="audio/mpeg" />
+            <guid isPermaLink="false">https://media.githubusercontent.com/media/yuto-watanabe0716/yuto-voice/refs/heads/main/podcast/yuto-voice/%E3%81%8A%E9%87%91%E4%BD%BF%E3%81%88.mp3</guid>
+            <pubDate>Thu, 02 Apr 2026 02:51:00 GMT</pubDate>
+            <itunes:duration>596</itunes:duration>
+            <itunes:explicit>no</itunes:explicit>
+            <itunes:image
+                href="https://utagesystem.s3.ap-northeast-1.amazonaws.com/yL3LZRmZIOUN/PXbaDyL9pL0LEDgakKddTNuKc9mgZ21bNEW5Wl6a.png" />
+        </item>
     </channel>
 </rss>
