@@ -489,5 +489,22 @@
             <itunes:image
                 href="https://utagesystem.s3.ap-northeast-1.amazonaws.com/yL3LZRmZIOUN/PXbaDyL9pL0LEDgakKddTNuKc9mgZ21bNEW5Wl6a.png" />
         </item>
+        <item>
+            <title>【雑談ぱんだ】</title>
+            <itunes:author>ユウト</itunes:author>
+            <itunes:summary>《リクエストフォーム》
+                https://forms.gle/x5juAM11Uj3SX6tH8</itunes:summary>
+            <description>《リクエストフォーム》
+                https://forms.gle/x5juAM11Uj3SX6tH8</description>
+            <enclosure
+                url="https://media.githubusercontent.com/media/yuto-watanabe0716/yuto-voice/refs/heads/main/podcast/yuto-voice/%E3%80%90%E9%9B%91%E8%AB%87%E3%81%B1%E3%82%93%E3%81%A0%E3%80%91.mp3"
+                length="192074009" type="audio/mpeg" />
+            <guid isPermaLink="false">https://media.githubusercontent.com/media/yuto-watanabe0716/yuto-voice/refs/heads/main/podcast/yuto-voice/%E3%80%90%E9%9B%91%E8%AB%87%E3%81%B1%E3%82%93%E3%81%A0%E3%80%91.mp3</guid>
+            <pubDate>Tue, 02 Jun 2026 03:30:00 GMT</pubDate>
+            <itunes:duration>8000</itunes:duration>
+            <itunes:explicit>no</itunes:explicit>
+            <itunes:image
+                href="https://utagesystem.s3.ap-northeast-1.amazonaws.com/yL3LZRmZIOUN/ffK2IZ9qiasq8BlMDPDZG8b06M3aXxICDNorrUpX.png" />
+        </item>
     </channel>
 </rss>
