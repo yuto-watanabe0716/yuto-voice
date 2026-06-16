@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<rss xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd" version="2.0">
+<rss xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
     <channel>
         <title>ユウト ぶち上げボイス</title>
         <link>https://github.com/yuto-watanabe0716/yuto-voice</link>
@@ -13,6 +13,9 @@
             <itunes:category text="コース" />
         </itunes:category>
         <itunes:explicit>no</itunes:explicit>
+        <lastBuildDate>Tue, 16 Jun 2026 03:42:42 GMT</lastBuildDate>
+        <atom:link href="https://yuto-watanabe0716.github.io/yuto-voice/podcast/yuto-voice/podcast.xml" rel="self" type="application/rss+xml" />
+        <ttl>60</ttl>
         <item>
             <title>初めに</title>
             <itunes:author>ユウト</itunes:author>
